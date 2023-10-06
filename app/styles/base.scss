@@ -1,0 +1,10 @@
+@import './var.scss';
+
+body,
+html {
+	font-size: 10px;
+	background-color: $main-color;
+	height: 100%;
+	font-family: 'Inter';
+
+}
